@@ -1,0 +1,30 @@
+{
+    "project_info": {
+      "project_number": "65806006285",
+      "project_id": "mis-av8",
+      "storage_bucket": "mis-av8.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:65806006285:android:458a185e1f1ea6d466fd44",
+          "android_client_info": {
+            "package_name": "com.example.pokemon"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDY6dEvFCfYaSVfEvGAAG085OYbJgsFP0E"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
+  
